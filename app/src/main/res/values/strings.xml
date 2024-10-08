@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Repository G-4</string>
+    <string name="txt_enter">Enter Text</string>
+    <string name="goTo2nd">Go to 2nd</string>
+    <string name="save">Save</string>
+    <string name="storedText">Stored text</string>
+    <string name="readStorage">Read the storage</string>
+    <string name="back">Back</string>
+    <string-array name="theme_options">
+        <item>Default (System default)</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
